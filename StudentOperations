@@ -1,0 +1,6 @@
+// 查看选课结果
+select title, course_id, sec_id, dept_name, semester, year, credits
+from student natural left outer join takes natural join section natural join course
+where this.ID = student.ID
+
+// 查看课表

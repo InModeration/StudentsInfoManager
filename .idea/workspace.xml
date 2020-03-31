@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0404ba7b-f9b6-4608-afae-231ff3d242c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Func/Dean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/Connect2DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/Connect2DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/Enter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/Enter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/SearchSections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/SearchSections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Func/UserInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Func/UserInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/dpbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dpbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Func/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Func/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Func/Enter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Func/Enter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Func/Instructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Func/Instructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Func/Section.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Func/Section.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Func/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Func/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Func/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Func/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dpbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dpbc.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jdbctest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>11</find>
+      <find>button</find>
+      <find>textField</find>
+      <find>showMessageDialog</find>
+      <find>setDef</find>
+      <find>contentPane</find>
+      <find>data</find>
+      <find>section</find>
+      <find>sec</find>
+      <find>Section</find>
+      <find>takeSec</find>
+      <find>setGrade</find>
+      <find>getStu</find>
+      <find>dro</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1P2C3Dwh94yAUnpe8ULaasyZSrX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554036602889" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\嗯冲丶\java\jdbctest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="InitialInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stuManage.InitialInterface" />
+      <module name="jdbctest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stuManage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFrame.LogFrame" />
+      <module name="jdbctest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Func.Test" />
+      <module name="jdbctest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="beautyeye_lnf.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="E:/beautyeye_lnf.jar!/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="beautyeye_lnf.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../../大二下/数据库/project/beautyeye_lnf.jar!/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LogFrame" />
+        <item itemvalue="Application.InitialInterface" />
+        <item itemvalue="JAR Application.beautyeye_lnf.jar (1)" />
+        <item itemvalue="JAR Application.beautyeye_lnf.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0404ba7b-f9b6-4608-afae-231ff3d242c8" name="Default Changelist" comment="" />
+      <created>1554033720493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554033720493</updated>
+      <workItem from="1554033727020" duration="111000" />
+      <workItem from="1554033870074" duration="2909000" />
+      <workItem from="1554690162132" duration="313000" />
+      <workItem from="1554691391343" duration="976000" />
+      <workItem from="1554720587002" duration="119000" />
+      <workItem from="1555297702221" duration="2358000" />
+      <workItem from="1555863669761" duration="12063000" />
+      <workItem from="1556498002877" duration="4058000" />
+      <workItem from="1556503584056" duration="5201000" />
+      <workItem from="1556539398128" duration="90000" />
+      <workItem from="1557103275016" duration="7433000" />
+      <workItem from="1557713993148" duration="74000" />
+      <workItem from="1557714128948" duration="81000" />
+      <workItem from="1557714245133" duration="4588000" />
+      <workItem from="1558312462259" duration="10264000" />
+      <workItem from="1558624106078" duration="2014000" />
+      <workItem from="1558702381643" duration="579000" />
+      <workItem from="1558703096149" duration="11000" />
+      <workItem from="1558703780818" duration="194000" />
+      <workItem from="1558812090035" duration="30000" />
+      <workItem from="1558812563936" duration="42000" />
+      <workItem from="1558812608292" duration="1000" />
+      <workItem from="1558812631724" duration="544000" />
+      <workItem from="1558813183238" duration="296000" />
+      <workItem from="1558813598879" duration="14183000" />
+      <workItem from="1558869756957" duration="10785000" />
+      <workItem from="1558883799748" duration="1650000" />
+      <workItem from="1558916629874" duration="9296000" />
+      <workItem from="1558936770730" duration="2630000" />
+      <workItem from="1558939608717" duration="5703000" />
+      <workItem from="1559176852165" duration="3812000" />
+      <workItem from="1559214630143" duration="5952000" />
+      <workItem from="1559463028206" duration="815000" />
+      <workItem from="1560129770964" duration="43000" />
+      <workItem from="1563152973427" duration="225000" />
+      <workItem from="1563153257998" duration="37000" />
+      <workItem from="1563157591477" duration="600000" />
+      <workItem from="1563457455281" duration="135000" />
+      <workItem from="1563936145425" duration="807000" />
+      <workItem from="1565062610792" duration="148000" />
+      <workItem from="1565062764786" duration="1210000" />
+      <workItem from="1566969453789" duration="107000" />
+      <workItem from="1571047284607" duration="6000" />
+      <workItem from="1572070113023" duration="1370000" />
+      <workItem from="1582727457922" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jdbctest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: mysql:mysql-connector-java:5.1.47</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
